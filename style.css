@@ -93,10 +93,13 @@ html{
 /* Home Section Styling */
 .home{
     display: flex;
-    background: url(./images/PicsArt_11-29-06.51.15.jpg) no-repeat center;
+    background: url(./images/PicsArt_01-17-05.15.54.jpg) no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
+}
+.home-content{
+    color: #111;
 }
 .home .max-width{
     margin: auto 0 auto 40px;
