@@ -95,13 +95,14 @@ html{
 /* Home Section Styling */
 .home{
     display: flex;
-    background: url(./images/1633970451518.jpg) no-repeat center;
+    background: url(./images/IMG_20210524_221430_1632478307129_1632478346618.jpg);
     height: 100vh;
     color: #fff;
     min-height: 500px;
 }
 .home-content{
-    color: #111;
+    color: rgb(253, 245, 245);
+
 }
 .home .max-width{
     margin: auto 0 auto 40px;
